@@ -20,10 +20,7 @@
 
 | Stack | Queue | Linked List |
 |------|-------|--------------|
-| ![Screenshot 2025-07-08 130132](https://github.com/user-attachments/assets/d9d11c7e-3e42-4e82-9d20-834dc87da923)
- | ![Screenshot 2025-07-08 130103](https://github.com/user-attachments/assets/6e110132-fa5b-47b2-8b3a-8e742c1443f2)
- | ![Screenshot 2025-07-08 130202](https://github.com/user-attachments/assets/31ba435c-d878-4a32-a5cd-9ecef29aa54c)
- |
+| ![Screenshot 2025-07-08 130132](https://github.com/user-attachments/assets/d9d11c7e-3e42-4e82-9d20-834dc87da923) | ![Screenshot 2025-07-08 130103](https://github.com/user-attachments/assets/6e110132-fa5b-47b2-8b3a-8e742c1443f2) | ![Screenshot 2025-07-08 130202](https://github.com/user-attachments/assets/31ba435c-d878-4a32-a5cd-9ecef29aa54c) |
 
 ### 🌳 Binary Tree with Visual Drawing
 
